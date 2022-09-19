@@ -28,3 +28,18 @@ int main(void)
 
     return 0;
 }
+
+
+/*
+
+Provided formatting parts for printf statements:
+
+As described in step-7
+======================
+printf(" 1 |   %d   |   %d   |    %d   |   %d  | %4d | %6.3lf |   %d   | %5.1lf | %5.1lf\n",
+
+As described in step-10
+=======================
+printf(" 1|       %d         |         %d          |      %d      |   %d   |      %d\n",
+
+*/
